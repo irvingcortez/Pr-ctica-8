@@ -1,0 +1,7 @@
+[
+  "test_main.py::test_divide",
+  "test_main.py::test_divide_by_zero",
+  "test_main.py::test_multiply",
+  "test_main.py::test_subtract",
+  "test_main.py::test_sum"
+]
